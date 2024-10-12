@@ -1,6 +1,6 @@
 import React ,{useState} from "react";
 const api={
-  key: "792781e3b1c27fec65ee35edb86b0cd4",
+  key: "Enter your api key",
   base: "https://api.openweathermap.org/data/2.5/"
 }
 
